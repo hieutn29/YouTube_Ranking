@@ -1,0 +1,8 @@
+# Không đưa lên website public
+YouTube_API.txt
+Supabase-Config.txt
+supabase/
+fix-channel-ids.sql
+schedule-sync-youtube.sql
+update-channels-details.sql
+.env

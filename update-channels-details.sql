@@ -1,0 +1,22 @@
+-- Bổ sung mô tả và ngày tạo kênh (chạy sau data-channels.sql)
+UPDATE channels SET description = 'Kênh giải trí lớn nhất thế giới của Jimmy Donaldson (MrBeast) với các thử thách quy mô lớn và hoạt động từ thiện.', published_at = '2012-02-20T00:00:00Z' WHERE id = 'UCX6OQ3DkcsbYNE6H8uQQuVA';
+UPDATE channels SET description = 'Hãng thu âm và sản xuất phim hàng đầu Ấn Độ (Super Cassettes Industries Private Limited).', published_at = '2006-03-13T00:00:00Z' WHERE id = 'UCq-Fj5jknLsUf-MWSy4_brA';
+UPDATE channels SET description = 'Kênh YouTube cá nhân nổi tiếng của Felix Kjellberg chuyên về bình luận game, meme và vlog.', published_at = '2010-04-29T00:00:00Z' WHERE id = 'UC-lHJZR3Gqxm24_Vd_AJ5Yw';
+UPDATE channels SET description = 'Kênh tin tức chính thức của mạng lưới All-Nippon News Network (TV Asahi) tại Nhật Bản.', published_at = '2009-07-07T00:00:00Z' WHERE id = 'UCGCZAYq5Xxojl_tSXcVJhiQ';
+UPDATE channels SET description = 'Cộng đồng mã nguồn mở giúp mọi người học lập trình miễn phí thông qua các khóa học chuyên sâu.', published_at = '2014-12-16T00:00:00Z' WHERE id = 'UC8butISFwT-Wl7EV0hUK0BQ';
+UPDATE channels SET description = 'Kênh chính thức của nhóm nhạc thần tượng ảo VTuber Hololive Production thuộc COVER Corp.', published_at = '2016-05-02T00:00:00Z' WHERE id = 'UCJFZiqLm7iJ0vEM18y4_bWw';
+UPDATE channels SET description = 'Virtual YouTuber (VTuber) tiên phong trên thế giới với khẩu hiệu kết nối mọi người qua AI.', published_at = '2016-10-19T00:00:00Z' WHERE id = 'UC4YaOt1yT-ZeyB0OmxHgolA';
+UPDATE channels SET description = 'Kênh phát sóng Anime bản quyền chính thức của Muse Communication tại Việt Nam.', published_at = '2020-05-15T00:00:00Z' WHERE id = 'UCott96qGP5ADmsB_yNQMvDA';
+UPDATE channels SET description = 'Kênh YouTube chính thức của tựa game bắn súng đồng đội Overwatch từ Blizzard Entertainment.', published_at = '2014-11-07T00:00:00Z' WHERE id = 'UClOf1XXinvZsy4wKPAkro2A';
+UPDATE channels SET description = 'Kênh phim truyền hình chính thức của đài truyền hình SBS Hàn Quốc.', published_at = '2012-08-22T00:00:00Z' WHERE id = 'UC9nK195uN_z_4L0Qj7x1l0w';
+UPDATE channels SET description = 'Kênh chia sẻ kiến thức lập trình, phát triển phần mềm và công nghệ hiện đại.', published_at = '2021-03-10T00:00:00Z' WHERE id = 'UCuP2vJ6_0nB9H_P1o5_P3wA';
+UPDATE channels SET description = 'Kênh chính thức của trò chơi thẻ bài chiến thuật Hearthstone lấy bối cảnh vũ trụ Warcraft.', published_at = '2013-03-22T00:00:00Z' WHERE id = 'UCVia_crjzJylRmGq7SHTiaw';
+UPDATE channels SET description = 'Kênh sáng tạo nội dung và stream của VTuber essie.', published_at = '2021-07-01T00:00:00Z' WHERE id = 'UCkWnwVAYGshTEVDPZ451kBQ';
+UPDATE channels SET description = 'Kênh VTuber Gawr Gura thuộc thế hệ Hololive English -Myth-.', published_at = '2020-07-16T00:00:00Z' WHERE id = 'UCp-9F3MEliOQ2sbAnG0OqLQ';
+UPDATE channels SET description = 'Kênh chính thức của thuyền trưởng Houshou Marine thuộc Hololive Fantasy (Gen 3).', published_at = '2019-07-22T00:00:00Z' WHERE id = 'UCCzUftO8KOVkV4wQG1vkU1g';
+UPDATE channels SET description = 'Kênh âm nhạc và livestream của thần tượng ảo Hoshimachi Suisei thuộc Hololive Gen 0.', published_at = '2018-03-18T00:00:00Z' WHERE id = 'UC5CwaMl1eIgY8h02uZw7u8A';
+UPDATE channels SET description = 'Kênh livestream game và giải trí của Usada Pekora thuộc Hololive Fantasy (Gen 3).', published_at = '2019-07-07T00:00:00Z' WHERE id = 'UC1DCedRgGHBdm81E1llLhOQ';
+UPDATE channels SET description = 'Kênh chính thức của Elite VTuber Sakura Miko thuộc Hololive Gen 0.', published_at = '2018-04-25T00:00:00Z' WHERE id = 'UC-hM6YJuNYVAmUWxeIr9FeA';
+UPDATE channels SET description = 'Kênh vlog đời sống, thời trang và giải trí chính thức của Ngọc Trinh.', published_at = '2019-02-14T00:00:00Z' WHERE id = 'UC7jHm3zfoSZWV5d1cxfJ-BA';
+UPDATE channels SET description = 'Kênh video đồ họa thông tin (infographics) giải thích kiến thức, lịch sử và tin tức thú vị.', published_at = '2011-04-06T00:00:00Z' WHERE id = 'UCfdNM3NAhaBOXCafH7krzrA';
+UPDATE channels SET description = 'Kênh phân tích cốt truyện game, đánh giá game và tin tức làng game chuyên sâu tại Việt Nam.', published_at = '2020-01-12T00:00:00Z' WHERE id = 'UCTF0ldaORTbCfx2ahvFfYWg';
